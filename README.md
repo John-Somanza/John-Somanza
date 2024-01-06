@@ -1,4 +1,4 @@
-<h1>Hello, I'm John! <br/><a href="www.linkedin.com/in/john-somanza-84b3072a6">Cybersecurity Student</a>
+<h1>Hello, I'm John, your <br/><a href="www.linkedin.com/in/john-somanza-84b3072a6">Cybersecurity Student</a>, welcome to my showcase!
 
 <h2>👨‍💻 My Cybersecurity Projects/Labs:</h2>
 
@@ -10,7 +10,7 @@
   - [TASK 2: FORENSIC INVESTIGATION](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 📲 Connect with me:</h2>
 
 [<img align="left" alt="JohnSomanza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
