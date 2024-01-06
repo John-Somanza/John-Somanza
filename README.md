@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Cybersecurity Projects/Labs:</h2>
 
 - <b>C844 Emerging Technologies in Cybersecurity Lab:</b>
-  - [TASK 1: NMAP AND WIRESHARK](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [TASK 1: NMAP AND WIRESHARK](https://github.com/John-Somanza/C844-Emerging-Technologies-in-Cybersecurity-Lab.git)
   - [TASK 2: WLAN AND MOBILE SECURITY PLAN](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>D431 Digital Forensics Lab:</b>
   - [TASK 1: INVESTIGATIVE PLAN OF ACTION](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
