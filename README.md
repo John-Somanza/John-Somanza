@@ -4,7 +4,7 @@
 
 - <b>C844 Emerging Technologies in Cybersecurity Lab:</b>
   - [TASK 1: NMAP AND WIRESHARK](https://github.com/John-Somanza/C844-Emerging-Technologies-in-Cybersecurity-Lab.git)
-  - [TASK 2: WLAN AND MOBILE SECURITY PLAN](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [TASK 2: WLAN AND MOBILE SECURITY PLAN](https://github.com/John-Somanza/C844-Emerging-Technologies-in-Cybersecurity-Lab-Pt.2.git)
 - <b>D431 Digital Forensics Lab:</b>
   - [TASK 1: INVESTIGATIVE PLAN OF ACTION](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [TASK 2: FORENSIC INVESTIGATION](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
