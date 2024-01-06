@@ -9,6 +9,9 @@
   - [TASK 1: INVESTIGATIVE PLAN OF ACTION](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [TASK 2: FORENSIC INVESTIGATION](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
+<h2> 📜 Certifications: </h2>
+
+- [CompTIA A+](https://www.credly.com/badges/45afae35-869b-4159-888d-d8e501abde42/public_url)
 
 <h2> 📲 Connect with me:</h2>
 
