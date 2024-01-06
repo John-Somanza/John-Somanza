@@ -12,8 +12,15 @@
 <h2> 📜 Certifications: </h2>
 
 - [CompTIA A+](https://www.credly.com/badges/45afae35-869b-4159-888d-d8e501abde42/public_url)
+- [CompTIA Net+](https://www.credly.com/badges/a61c9eac-6e91-444b-a3dc-ea605460e21b/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/a6d11c17-9850-4ac1-815f-d625b9be3856/public_url)
+- [ITIL 4 Foundation](https://www.linkedin.com/posts/john-somanza-84b3072a6_got-my-itil-v4-cert-just-going-to-let-it-activity-7148495586604769281-lmAO?utm_source=share&utm_medium=member_desktop)
 
-<h2> 📲 Connect with me:</h2>
+<h2> 📖 Currently Working On: </h2>
+
+- Data Management; After which I will begin working on my LPI Linux Essentials certificate
+
+<h2> 📲 Connect With Me: </h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
