@@ -19,7 +19,7 @@
 <h2> 📖 Currently Working On: </h2>
 
 - Data Management
-- After this class I will begin working on my LPI Linux Essentials certificate
+- After this class I will begin working on my LPI Linux Essentials Certification
 
 <h2> 📲 Connect With Me: </h2>
 
